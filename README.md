@@ -2,14 +2,14 @@
 
 This project analyzes IMDB movie reviews and classifies their **sentiment** (positive or negative) using **Natural Language Processing (NLP)** and a **Multi-Layer Perceptron (MLP)** model. It includes full preprocessing, vectorization, model training, and evaluation using modern machine learning tools.
 
-### 🧠 Features
+### Features
 - ✅ Cleaned and preprocessed raw text reviews using **regex**, **NLTK stopwords**, and **stemming**
 - 🧹 Tokenized reviews and applied **Snowball stemming**
 - ✨ Transformed text data into TF-IDF vectors (**2000 features**) for model input
 - 🤖 Built and trained an **MLPClassifier** using **scikit-learn**
 - 📊 Evaluated model with metrics including **accuracy**, **precision**, **recall**, **F1-score**, and **ROC-AUC**
 
-### 🛠️ Technologies Used
+### Technologies Used
 
 | Category               | Tools & Libraries                                                      |
 |------------------------|------------------------------------------------------------------------|
