@@ -26,4 +26,4 @@ This project analyzes IMDB movie reviews and classifies their **sentiment** (pos
 | **Notebook Interface** | Jupyter                                                                |
 | **Data Source**        | Kaggle (IMDB Sentiment Dataset)                                        |
 
-(line10.png)
+!(line10.png)
